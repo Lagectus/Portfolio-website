@@ -654,6 +654,9 @@ section {
         .service-box {
             flex: 1 1 100%;
         }
+        .projects {
+            margin-top: 300px;
+        }
         .projects-box {
             flex-direction: column;
         }
