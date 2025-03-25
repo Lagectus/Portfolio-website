@@ -665,7 +665,8 @@ section {
             width: 100%;
         }
         .contact {
-            margin-top: 800px;
+            position: relative;
+            top: 800px;
         }
         .footer {
             margin-top: 200px;
