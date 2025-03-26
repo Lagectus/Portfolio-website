@@ -413,7 +413,7 @@ section {
     }
 
     .contact {
-        margin-top: 80;
+        margin-top: 80px;
         padding-top: 10px;
         background-color: var(--bg-color);
         color: var(--text-color);
